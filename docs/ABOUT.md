@@ -8,7 +8,7 @@ What's very inspiring about this, is that even though the video game industry is
 
 A couple of years ago, I was thinking, that I wish I had a site like ModDB for every project I made, a public page to keep me wanting to share what I'm working on. A place to meet people that saw value in the projects I was making and find people to work with. Me and a friend set out to make this, however like a lot of projects, it fizzled. But unlike most of my other projects that have fizzled out with time, I kept coming back to this idea.
 
-I think it's incredibly important in times where we seem to keep getting more and more divided, that people get together and work together on things. Look at the Linux Fuoundation for example, and what positive impact that has, it powers a huge percentage of the web as we know it, imagine how much Microsoft would be charging for server licencing for every website out there, but instead, we'll always have a free alternative.
+I think it's incredibly important in times where we seem to keep getting more and more divided, that people get together and work together on things. Look at the Linux Foundation for example, and what positive impact that has, it powers a huge percentage of the web as we know it, imagine how much Microsoft would be charging for server licencing for every website out there, but instead, we'll always have a free alternative.
 
 Usually, when I work on a web development project, I have it open for people to see the code and contribute, however I don't regularly go out and look for people to work with. However, this time, due to the nature of what I plan on creating, it feels like the perfect opportunity to seek out help from like-minded people, in order to make this happen. Don't worry if you don't have web development experience, there will always be something you can contribute too.
 
@@ -23,6 +23,8 @@ However, you may take the code and host your own rival site under a different na
 It's important to remember that this site, like a lot of others, has odds stacked against it. It is incredibly importnat to remember that if you decide to contribute, you may put a huge amount of time in this, to get 5 users. I need people that enjoy developing and working on it, and for that to be it's own reward, or people that want to better themselves by learning new skills.
 
 We are currently planning out the MVP version of the site, but it'll likely include Social Media like profiles, Project Pages, Internal pages for projects to communicate, Instant Messaging, Team Pages (groups that can also work on projects) and more.
+
+The site will not just be for tech and programming projects, but for all kinds. I'd love to make this a place where bands can find new members, film makers can find actors. Your page can then act as a portfolio for things you work on in your time, and act as something you can show other members, or even employers.
 
 As someone who strongly dislikes social media, I want to create a social media site that is privacy heavy, making sharing your real name optional, that never mines user data or presents ads.
 
