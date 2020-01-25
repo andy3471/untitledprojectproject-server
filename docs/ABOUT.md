@@ -10,21 +10,21 @@ A couple of years ago, I was thinking, that I wish I had a site like ModDB for e
 
 I think it's incredibly important in times where we seem to keep getting more and more divided, that people get together and work together on things. Look at the Linux Foundation for example, and what positive impact that has, it powers a huge percentage of the web as we know it, imagine how much Microsoft would be charging for server licencing for every website out there, but instead, we'll always have a free alternative.
 
+The site will not just be for tech and programming projects, but for all kinds. I'd love to make this a place where bands can find new members, film makers can find actors. Your page can then act as a portfolio for things you have worked on, and act as something you can show other members, or even employers. Think of it as LinkedIn for creative people, or people that like to work on projects in their free time.
+
 Usually, when I work on a web development project, I have it open for people to see the code and contribute, however I don't regularly go out and look for people to work with. However, this time, due to the nature of what I plan on creating, it feels like the perfect opportunity to seek out help from like-minded people, in order to make this happen. Don't worry if you don't have web development experience, there will always be something you can contribute too.
 
 Maybe no-one will want to join, and it'll be just me again, that's fine too, but I wanted to create this page as an open offer to people to try and get them interested.
 
 ## The Plan
 
-I plan to always keep the app and the code completely open source. However, at some point in the future, when the Minimum Viable Product is built, I aim to host it on servless architecture, to try and grow it as a site. I will invite anyone that has contributed on the project to be a part of that, proportional to the time investment that they have put it. That site may add monetised features in the future, in order to cover hosting costs, if we do by some miracle do grow it.
+I plan to always keep the app and the code completely open source. However, at some point in the future, when the Minimum Viable Product is built, I aim to host it on servless architecture, to try and grow it as a site. I will invite anyone that has contributed on the project to be a part of that, proportional to the time investment that they have put it. That site may add monetised features (collaboration tools) in the future, in order to cover hosting costs, if we do by some miracle do grow it.
 
 However, you may take the code and host your own rival site under a different name, there's nothing stopping that. I just want to give this site the best chance of existing.
 
 It's important to remember that this site, like a lot of others, has odds stacked against it. It is incredibly important to remember that if you decide to contribute, you may put a huge amount of time in this, to get 5 users. I need people that enjoy developing and working on it, and for that to be it's own reward, or people that want to better themselves by learning new skills.
 
 We are currently planning out the MVP version of the site, but it'll likely include Social Media like profiles, Project Pages, Internal pages for projects to communicate, Instant Messaging, Team Pages (groups that can also work on projects) and more.
-
-The site will not just be for tech and programming projects, but for all kinds. I'd love to make this a place where bands can find new members, film makers can find actors. Your page can then act as a portfolio for things you work on in your time, and act as something you can show other members, or even employers.
 
 As someone who strongly dislikes social media, I want to create a social media site that is privacy heavy, making sharing your real name optional, that never mines user data or presents ads.
 
