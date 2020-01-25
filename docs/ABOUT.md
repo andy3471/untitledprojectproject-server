@@ -20,7 +20,7 @@ I plan to always keep the app and the code completely open source. However, at s
 
 However, you may take the code and host your own rival site under a different name, there's nothing stopping that. I just want to give this site the best chance of existing.
 
-It's important to remember that this site, like a lot of others, has odds stacked against it. It is incredibly importnat to remember that if you decide to contribute, you may put a huge amount of time in this, to get 5 users. I need people that enjoy developing and working on it, and for that to be it's own reward, or people that want to better themselves by learning new skills.
+It's important to remember that this site, like a lot of others, has odds stacked against it. It is incredibly important to remember that if you decide to contribute, you may put a huge amount of time in this, to get 5 users. I need people that enjoy developing and working on it, and for that to be it's own reward, or people that want to better themselves by learning new skills.
 
 We are currently planning out the MVP version of the site, but it'll likely include Social Media like profiles, Project Pages, Internal pages for projects to communicate, Instant Messaging, Team Pages (groups that can also work on projects) and more.
 
