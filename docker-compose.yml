@@ -1,0 +1,21 @@
+version: '3'
+services:
+  upp-server:
+    build: .
+    restart: unless-stopped
+    container_name: upp-server
+    ports:
+     - "3474:80"
+    environment:
+     APP_KEY: base64:Hsn2BwXdpKHhEiTSDkkuWP1OwbfcZZFQlLoWbjY4lk8=
+     REDIS_HOST: upp-redis
+     ASSET_URL: http://upp.local
+     CACHE_DRIVER: redis
+    volumes:
+      - .:/app
+    depends_on:
+      - upp-redis
+  upp-redis:
+    image: redis:6.0.4
+    restart: unless-stopped
+    container_name: upp-redis

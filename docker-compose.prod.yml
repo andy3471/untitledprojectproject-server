@@ -1,0 +1,24 @@
+version: '3'
+services:
+  upp-server:
+    image: andy3471/upp-server
+    restart: unless-stopped
+    container_name: upp-server
+    ports:
+     - "3474:80"
+    environment:
+     APP_KEY: base64:Hsn2BwXdpKHhEiTSDkkuWP1OwbfcZZFQlLoWbjY4lk8=
+     REDIS_HOST: upp-redis
+     ASSET_URL: https://upp.andyh.app
+     CACHE_DRIVER: redis
+    volumes:
+      - ./upp_web/logs:/app/storage/logs
+    depends_on:
+      - upp-redis
+  upp-redis:
+    image: redis:6.0.4
+    restart: unless-stopped
+    container_name: upp-redis
+    volumes:
+      - ./upp_redis:/data
+    entrypoint: redis-server --appendonly yes

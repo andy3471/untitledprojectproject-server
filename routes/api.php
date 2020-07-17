@@ -22,7 +22,7 @@ use Illuminate\Support\Facades\Route;
 Route::post('/login', 'UserController@login');
 
 
-Route::middleware('auth:airlock')->group(function () {
+Route::middleware('auth:sanctum')->group(function () {
     Route::get('/user', 'UserController@userInfo');
     Route::get('/logout', 'UserController@logout');
 });
